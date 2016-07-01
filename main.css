@@ -1,6 +1,7 @@
 body{
   font-family: 'Metal Mania', cursive;
   background-color: black;
+  cursor: url('fireemoji.ico'), auto;
 
 }
 
@@ -8,6 +9,8 @@ header {
   background-image: url(img/burzum.jpg);
   margin: auto;
   text-align: center;
+
+
 }
 .tagline {
   color: #ff0000;
